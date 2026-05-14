@@ -2,40 +2,40 @@ The Wi-Fi Controlled Talking Robot is an IoT-based robotic system designed for w
 The system also includes a Bluetooth speaker module for playing pre-programmed voice messages, creating an interactive robotic experience. This project demonstrates the integration of embedded systems, wireless communication, motor control, and IoT concepts using low-cost hardware components.
 
 Features:
-Wi-Fi based mobile control
 
-Real-time directional movement
+         Wi-Fi based mobile control
 
-Voice message output through speaker
+         Real-time directional movement
 
-User-friendly and low-cost design
+         Voice message output through speaker
 
-Suitable for robotics and IoT applications
+         User-friendly and low-cost design
+
+         Suitable for robotics and IoT applications
 
 Components Used:
 
-NodeMCU ESP8266
+          NodeMCU ESP8266
 
-L298N Motor Driver
+          L298N Motor Driver
 
-BO Gear Motors
+          BO Gear Motors
 
-Bluetooth Speaker Module
+          Bluetooth Speaker Module
 
-18650 Batteries
+          Batteries
 
-Wheels and Chassis
+          Wheels and Chassis
 
 Technologies Used:
 
+           NodeMCU ESP8266
 
-NodeMCU ESP8266
+           Arduino IDE
 
-Arduino IDE
+           Embedded C Programming
 
-Embedded C Programming
+            L298N Motor Driver
 
-L298N Motor Driver
-
-IoT and Wireless Communication
+            IoT and Wireless Communication
 
