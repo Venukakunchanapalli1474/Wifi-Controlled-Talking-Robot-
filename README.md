@@ -3,23 +3,39 @@ The system also includes a Bluetooth speaker module for playing pre-programmed v
 
 Features:
 Wi-Fi based mobile control
+
 Real-time directional movement
+
 Voice message output through speaker
+
 User-friendly and low-cost design
+
 Suitable for robotics and IoT applications
 
 Components Used:
-NodeMCU ESP8266
-L298N Motor Driver
-BO Gear Motors
-Bluetooth Speaker Module
-18650 Batteries
-Wheels and Chassis
-Technologies Used:
 
 NodeMCU ESP8266
-Arduino IDE
-Embedded C Programming
+
 L298N Motor Driver
+
+BO Gear Motors
+
+Bluetooth Speaker Module
+
+18650 Batteries
+
+Wheels and Chassis
+
+Technologies Used:
+
+
+NodeMCU ESP8266
+
+Arduino IDE
+
+Embedded C Programming
+
+L298N Motor Driver
+
 IoT and Wireless Communication
 
